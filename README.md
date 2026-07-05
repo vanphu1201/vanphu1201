@@ -47,8 +47,6 @@
 
 ### 🛠️ Hệ sinh thái Kỹ năng (Tech Ecosystem)
 
-*Thay vì liệt kê một hàng dài, mình phân loại rõ ràng để nhà tuyển dụng thấy tư duy hệ thống của bạn:*
-
 **🧠 AI, Algorithms & Core**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
