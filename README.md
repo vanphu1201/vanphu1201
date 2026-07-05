@@ -13,7 +13,7 @@
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="LINK_DEN_PORTFOLIO_CUA_BAN"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/vanphu1201/portfolio_website"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -21,17 +21,15 @@
 ### 👨‍💻 Về bản thân tôi (About Me)
 
 - 🎓 Hiện đang là sinh viên ngành **Kỹ thuật Phần mềm (Software Engineering)** tại **HCMUTE**.
-- 💡 Tập trung phát triển các giải pháp **Fullstack Web**, thiết kế hệ thống lưu trữ, và ứng dụng **AI architectures** (RNNs, LSTMs, GRUs).
-- 🚀 Thích thú với việc tối ưu hóa và tự động hóa quy trình (Automation) sử dụng **n8n**, tích hợp **Google Drive API v3** và **YouTube Data API**.
-- 🌱 Đang tập trung hoàn thiện dự án cá nhân **portfolio_website** và phát triển các hệ thống tương tác dữ liệu trực tiếp qua API thay vì scraping.
-- ⚡ **Sở thích:** Giải quyết các bài toán tối ưu hiệu suất, refactor code, và khám phá các công cụ AI hỗ trợ sáng tạo nội dung.
+- 💡 Tập trung phát triển các giải pháp **Fullstack Web**, thiết kế hệ thống lưu trữ, và ứng dụng **AI architectures**.
+- 🚀 Thích thú với việc tối ưu hóa và tự động hóa quy trình (Automation) sử dụng **n8n**, tích hợp **Google Drive API** và các hệ thống xử lý Media.
+- ⚡ **Sở thích:** Giải quyết các bài toán tối ưu hiệu suất, refactor code, và xây dựng các công cụ hỗ trợ người dùng cuối.
 
 ---
 
 ### 🛠️ Công nghệ & Công cụ (Tech Stack)
 
 <p align="center">
-  <!-- Cập nhật icon theo ngôn ngữ và công cụ bạn dùng -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,cpp,c,html,css,react,nodejs,express,mysql&perline=10" />
     <br>
@@ -43,14 +41,13 @@
 
 ### 🚀 Dự án nổi bật (Featured Projects)
 
-| Tên dự án | Mô tả ngắn gọn | Trạng thái |
+| Tên dự án | Mô tả chuyên môn | Trạng thái |
 | :--- | :--- | :---: |
-| **[lms-drive-project](https://github.com/vanphu1201/lms-drive-project)** | Hệ thống quản lý lưu trữ đám mây, tích hợp trực tiếp với Google Drive API v3 để tối ưu luồng xử lý file. | 👨‍💻 Đang phát triển |
-| **[Tap hoa 5.0EZ](#)** | Nền tảng marketplace dành cho sinh viên, hỗ trợ đăng ký dịch vụ và quản lý nội dung đa nền tảng. | 🚀 Lên ý tưởng/Dev |
-| **Automated Workflows** | Luồng xử lý và đăng tải video tự động sử dụng n8n kết hợp với YouTube Data API. | ✨ Hoàn thiện |
-| **[portfolio_website](https://github.com/vanphu1201/portfolio_website)** | Trang web cá nhân giới thiệu profile, kỹ năng và các dự án thực tế. | 🌐 Deploy Vercel |
-
-*(💡 Ghi chú: Đừng quên chèn link thật vào tên các dự án nhé!)*
+| **[coppy-and-dowload-prive-drive](https://github.com/vanphu1201/coppy-and-dowload-prive-drive)** | Công cụ/Script tự động hóa hỗ trợ sao chép và tải xuống các tệp tin có quyền truy cập hạn chế từ nền tảng lưu trữ đám mây. | 🛠️ Maintained |
+| **[lms-drive-project](https://github.com/vanphu1201/lms-drive-project)** | Hệ thống quản lý lưu trữ, tích hợp trực tiếp với API để tối ưu hóa luồng xử lý và quản lý tài liệu. | 👨‍💻 Dev |
+| **[h2v-media](https://github.com/vanphu1201/h2v-media)** | Nền tảng quản lý hoặc xử lý truyền thông đa phương tiện (Media), tối ưu luồng công việc tự động hóa và nội dung số. | 🎥 Media |
+| **[r-mbaber-studio](https://github.com/vanphu1201/r-mbaber-studio)** | Ứng dụng web dành cho mô hình Studio/Dịch vụ, tập trung vào trải nghiệm người dùng UI/UX hiện đại và quản lý. | ✨ Deploy |
+| **[portfolio_website](https://github.com/vanphu1201/portfolio_website)** | Trang web cá nhân giới thiệu chi tiết về kỹ năng, dự án thực tế và các giải pháp công nghệ đã thực hiện. | 🌐 Vercel |
 
 ---
 
@@ -69,5 +66,5 @@
 
 ---
 <p align="center">
-  <i>Cảm ơn bạn đã ghé thăm profile của tôi! Chúc bạn một ngày tốt lành.</i>
+  <i>Cảm ơn bạn đã ghé thăm profile của tôi! Hãy kết nối qua Email hoặc LinkedIn nếu bạn muốn thảo luận về công nghệ nhé.</i>
 </p>
