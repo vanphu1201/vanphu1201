@@ -30,7 +30,7 @@
   <text x="450" y="82" font-family="Segoe UI, sans-serif" font-size="28" font-weight="bold" fill="#38bdf8" text-anchor="middle">⚡</text>
 
   <!-- Name -->
-  <text x="450" y="152" font-family="Segoe UI, Inter, sans-serif" font-size="30" font-weight="800" fill="#f8fafc" text-anchor="middle" letter-spacing="0.5">Quốc Cường / Văn Phú</text>
+  <text x="450" y="152" font-family="Segoe UI, Inter, sans-serif" font-size="30" font-weight="800" fill="#f8fafc" text-anchor="middle" letter-spacing="0.5">Văn Phú</text>
 
   <!-- Status Pill -->
   <rect x="335" y="168" width="230" height="26" rx="5" fill="#0f2942" stroke="#1e4976" stroke-width="1"/>
