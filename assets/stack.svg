@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 380" width="100%">
+  <defs>
+    <pattern id="grid3" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="380" rx="10" fill="#090d16" stroke="#1e293b" stroke-width="2"/>
+  <rect width="900" height="380" rx="10" fill="url(#grid3)"/>
+  <path d="M 16 28 L 16 16 L 28 16" fill="none" stroke="#0284c7" stroke-width="1.8"/>
+  <path d="M 872 16 L 884 16 L 884 28" fill="none" stroke="#0284c7" stroke-width="1.8"/>
+  <path d="M 16 352 L 16 364 L 28 364" fill="none" stroke="#0284c7" stroke-width="1.8"/>
+  <path d="M 872 364 L 884 364 L 884 352" fill="none" stroke="#0284c7" stroke-width="1.8"/>
+
+<text x="38" y="48" font-family="Consolas, monospace" font-size="11" fill="#64748b">L1</text>
+<polygon points="75,39 81,44 75,49 69,44" fill="#38bdf8"/>
+<text x="95" y="48" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#38bdf8" letter-spacing="1">FRONTEND</text>
+<rect x="235" y="30" width="110" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="290" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">React 18/19</text>
+<rect x="354.8" y="30" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="418" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Next.js 14/15</text>
+<rect x="490.2" y="30" width="102" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="541" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">TypeScript</text>
+<rect x="602.2" y="30" width="141" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="673" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Tailwind CSS v4</text>
+<rect x="753.2" y="30" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="816" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Framer Motion</text>
+<rect x="888.6" y="30" width="86" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="932" y="48" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Plyr DRM</text>
+<line x1="25" y1="74" x2="875" y2="74" stroke="#1e293b" stroke-width="1"/>
+<text x="38" y="102" font-family="Consolas, monospace" font-size="11" fill="#64748b">L2</text>
+<polygon points="75,93 81,98 75,103 69,98" fill="#f59e0b"/>
+<text x="95" y="102" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#f59e0b" letter-spacing="1">BACKEND</text>
+<rect x="235" y="84" width="102" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="286" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Node.js 20</text>
+<rect x="347.0" y="84" width="110" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="402" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Express 5.0</text>
+<rect x="466.8" y="84" width="118" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="526" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Python 3.11+</text>
+<rect x="594.4" y="84" width="118" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="653" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">FastAPI ASGI</text>
+<rect x="722.0" y="84" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="785" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">C/C++ ESP-IDF</text>
+<rect x="857.4" y="84" width="133" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="924" y="102" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">HTTP 206 / SSE</text>
+<line x1="25" y1="128" x2="875" y2="128" stroke="#1e293b" stroke-width="1"/>
+<text x="38" y="156" font-family="Consolas, monospace" font-size="11" fill="#64748b">L3</text>
+<polygon points="75,147 81,152 75,157 69,152" fill="#a855f7"/>
+<text x="95" y="156" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#a855f7" letter-spacing="1">DATA & STORAGE</text>
+<rect x="235" y="138" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="298" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">MongoDB Atlas</text>
+<rect x="370.4" y="138" width="102" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="421" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">PostgreSQL</text>
+<rect x="482.4" y="138" width="63" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="514" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Redis</text>
+<rect x="555.4" y="138" width="133" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="622" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">FAISS / Qdrant</text>
+<rect x="698.5999999999999" y="138" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="761" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Cloudflare R2</text>
+<rect x="833.9999999999999" y="138" width="118" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="893" y="156" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">G-Drive Pool</text>
+<line x1="25" y1="182" x2="875" y2="182" stroke="#1e293b" stroke-width="1"/>
+<text x="38" y="210" font-family="Consolas, monospace" font-size="11" fill="#64748b">L4</text>
+<polygon points="75,201 81,206 75,211 69,206" fill="#38bdf8"/>
+<text x="95" y="210" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#38bdf8" letter-spacing="1">MULTIMODAL AI</text>
+<rect x="235" y="192" width="180" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="325" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Gemini 2.5 Pro/Flash</text>
+<rect x="425.0" y="192" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="488" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">OpenAI GPT-4o</text>
+<rect x="560.4" y="192" width="196" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="658" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">CLIP / SigLIP / DINOv2</text>
+<rect x="766.0" y="192" width="71" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="801" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">YOLOv8</text>
+<rect x="846.8" y="192" width="110" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="902" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Whisper ASR</text>
+<rect x="966.5999999999999" y="192" width="86" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="1010" y="210" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">RapidOCR</text>
+<line x1="25" y1="236" x2="875" y2="236" stroke="#1e293b" stroke-width="1"/>
+<text x="38" y="264" font-family="Consolas, monospace" font-size="11" fill="#64748b">L5</text>
+<polygon points="75,255 81,260 75,265 69,260" fill="#f59e0b"/>
+<text x="95" y="264" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#f59e0b" letter-spacing="1">AGENT & AUTO</text>
+<rect x="235" y="246" width="157" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="313" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Windows-MCP (UIA)</text>
+<rect x="401.6" y="246" width="133" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="468" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Playwright CDP</text>
+<rect x="544.8" y="246" width="110" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="600" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Browser-Use</text>
+<rect x="664.5999999999999" y="246" width="125" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="727" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">n8n Workflows</text>
+<rect x="799.9999999999999" y="246" width="149" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="874" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Veo 3.1 & FFmpeg</text>
+<rect x="958.8" y="246" width="71" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="994" y="264" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Aria2c</text>
+<line x1="25" y1="290" x2="875" y2="290" stroke="#1e293b" stroke-width="1"/>
+<text x="38" y="318" font-family="Consolas, monospace" font-size="11" fill="#64748b">L6</text>
+<polygon points="75,309 81,314 75,319 69,314" fill="#a855f7"/>
+<text x="95" y="318" font-family="Consolas, monospace" font-size="12" font-weight="bold" fill="#a855f7" letter-spacing="1">DEVOPS & IOT</text>
+<rect x="235" y="300" width="164" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="317" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Docker Multi-Stage</text>
+<rect x="409.4" y="300" width="164" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="492" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Cloudflare Tunnels</text>
+<rect x="583.8" y="300" width="157" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="662" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">ESP32-S3 FreeRTOS</text>
+<rect x="750.4" y="300" width="133" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="817" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">Home Assistant</text>
+<rect x="893.5999999999999" y="300" width="118" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="952" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">VietQR SePay</text>
+<rect x="1021.1999999999999" y="300" width="133" height="28" rx="4" fill="#111c2d" stroke="#1e3a5f" stroke-width="1"/>
+<text x="1088" y="318" font-family="Consolas, monospace" font-size="12" fill="#e2e8f0" text-anchor="middle">GitHub Actions</text>
+</svg>

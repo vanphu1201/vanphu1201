@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 205 48" width="205" height="48">
+      <polygon points="4,4 193,4 201,12 201,44 4,44" fill="#291d0a" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="32" y="29" font-family="Segoe UI Emoji, sans-serif" font-size="16">🎓</text>
+      <text x="62" y="29" font-family="Consolas, monospace" font-size="13" font-weight="bold" fill="#f8fafc" letter-spacing="2">EDUSTREAM</text>
+    </svg>

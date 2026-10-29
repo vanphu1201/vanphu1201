@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="100%">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1e293b" stroke-width="0.8"/>
+    </pattern>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#090d16"/>
+    </linearGradient>
+    <linearGradient id="goldLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background & Grid -->
+  <rect width="900" height="360" rx="10" fill="url(#bg)" stroke="#1e293b" stroke-width="2"/>
+  <rect width="900" height="360" rx="10" fill="url(#grid)"/>
+
+  <!-- HUD Corner Brackets -->
+  <path d="M 18 34 L 18 18 L 34 18" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M 866 18 L 882 18 L 882 34" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M 18 326 L 18 342 L 34 342" fill="none" stroke="#38bdf8" stroke-width="2"/>
+  <path d="M 866 342 L 882 342 L 882 326" fill="none" stroke="#38bdf8" stroke-width="2"/>
+
+  <!-- Hexagon Avatar Badge -->
+  <polygon points="450,28 488,50 488,94 450,116 412,94 412,50" fill="#1e293b" stroke="#38bdf8" stroke-width="2"/>
+  <text x="450" y="82" font-family="Segoe UI, sans-serif" font-size="28" font-weight="bold" fill="#38bdf8" text-anchor="middle">⚡</text>
+
+  <!-- Name -->
+  <text x="450" y="152" font-family="Segoe UI, Inter, sans-serif" font-size="30" font-weight="800" fill="#f8fafc" text-anchor="middle" letter-spacing="0.5">Quốc Cường / Văn Phú</text>
+
+  <!-- Status Pill -->
+  <rect x="335" y="168" width="230" height="26" rx="5" fill="#0f2942" stroke="#1e4976" stroke-width="1"/>
+  <circle cx="352" cy="181" r="4" fill="#f59e0b"/>
+  <text x="458" y="185" font-family="Consolas, monospace" font-size="11" font-weight="600" fill="#7dd3fc" text-anchor="middle" letter-spacing="1.5">ARCHITECT · AI SYSTEMS</text>
+
+  <!-- Divider Line -->
+  <rect x="350" y="208" width="200" height="2" fill="url(#goldLine)"/>
+
+  <!-- Roles & Subtitles -->
+  <text x="450" y="232" font-family="Segoe UI, sans-serif" font-size="15" font-weight="600" fill="#cbd5e1" text-anchor="middle">Full-Stack Systems Architect · Multimodal AI &amp; Automation Engineer</text>
+  <text x="450" y="254" font-family="Consolas, monospace" font-size="12" fill="#64748b" text-anchor="middle" letter-spacing="1">Distributed Streaming  ·  Biologically-Inspired Agents  ·  Cloud Bypass  ·  DevOps</text>
+
+  <!-- Pipeline Track: CODE -> BUILD -> SHIP -> RUN -->
+  <line x1="210" y1="292" x2="690" y2="292" stroke="#1e3a5f" stroke-width="2"/>
+  <circle cx="530" cy="292" r="4" fill="#f59e0b"/>
+
+  <!-- Nodes -->
+  <g transform="translate(210, 292)">
+    <circle r="9" fill="#090d16" stroke="#38bdf8" stroke-width="1.5"/>
+    <circle r="3.5" fill="#38bdf8"/>
+    <text y="24" font-family="Consolas, monospace" font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="1">SURVEY (P0)</text>
+  </g>
+  <g transform="translate(370, 292)">
+    <circle r="9" fill="#090d16" stroke="#38bdf8" stroke-width="1.5"/>
+    <circle r="3.5" fill="#38bdf8"/>
+    <text y="24" font-family="Consolas, monospace" font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="1">ARCHITECT</text>
+  </g>
+  <g transform="translate(530, 292)">
+    <circle r="9" fill="#090d16" stroke="#38bdf8" stroke-width="1.5"/>
+    <circle r="3.5" fill="#38bdf8"/>
+    <text y="24" font-family="Consolas, monospace" font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="1">AUTOMATE</text>
+  </g>
+  <g transform="translate(690, 292)">
+    <circle r="9" fill="#090d16" stroke="#38bdf8" stroke-width="1.5"/>
+    <circle r="3.5" fill="#38bdf8"/>
+    <text y="24" font-family="Consolas, monospace" font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="1">SCALE</text>
+  </g>
+
+  <text x="450" y="340" font-family="Consolas, monospace" font-size="10" fill="#475569" text-anchor="middle" letter-spacing="2">ZERO-COST STREAMING  ·  SUB-20MS REFLEX  ·  DETERMINISTIC AI</text>
+</svg>
