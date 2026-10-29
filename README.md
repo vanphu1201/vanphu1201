@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HEADER & TITLE -->
-  <h1>Quốc Cường / Văn Phú — Full-Stack Architect · AI Systems & Automation Engineer</h1>
+  <h1>Văn Phú — Full-Stack Architect · AI Systems & Automation Engineer</h1>
 
   <!-- SOCIAL & CONTACT BADGES -->
   <p>
